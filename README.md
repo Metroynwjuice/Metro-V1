@@ -1,4 +1,4 @@
-&lt;h1 align=&quot;center&quot;&gt;Metro-BUG-V1𝗕𝗢𝗧&lt;br&gt;&lt;/h1&gt;
+&lt;h1 align=&quot;center&quot;&gt;Metro-BUG-V1𝗕𝗢𝗧&lt;&gt;&lt;/h1&gt;
 &lt;p align=&quot;center&quot;&gt;
 &lt;img src=&quot;https://i.imgur.com/IMG-20250112-WA0034.jpeg&quot; height=&quot;300&quot; /&gt;
 &lt;/p&gt;
