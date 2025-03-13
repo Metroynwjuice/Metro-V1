@@ -1,4 +1,94 @@
-*
+<p align="center">
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3;">Metro-V1</h1>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&width=435&lines=My+Name+is+Metro_bug+V1;Created+by+Metroboomin;Fork+Me+and+Enjoy!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/Screenshot_20231212-094757_WhatsApp.jpg" alt="Main Graphic" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Metroynwjuice?tab=followers">
+    <img src="https://img.shields.io/github/followers/Metroynwjuice?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1/stargazers/">
+    <img src="https://img.shields.io/github/stars/Metroynwjuice/Metro-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1/network/members">
+    <img src="https://img.shields.io/github/forks/Metroynwjuice/Metro-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1/watchers">
+    <img src="https://img.shields.io/github/watchers/Metroynwjuice/Metro-V1?label=Watches&style=for-the-badge&color=blue" alt="Watches" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1">
+    <img src="https://img.shields.io/github/repo-size/Metroynwjuice/Metro-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">🚀 Features</h2>
+
+- 🌟 Advanced WhatsApp bot functionalities.
+- 🔥 Fully customizable bug responses.
+- 📦 Lightweight and efficient codebase.
+- 🎶 Metro bugs available 
+- 📱 Economic commands for y'all 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
+
+<h2 align="center">🛠️ Steps to Get Started</h2>
+
+<h3 align="left">1️⃣ Fork the Repo</h3>
+<p align="left">
+  <a href="https://github.com/Metroynwjuice/Metro-V1/fork">
+    <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
+  </a>
+</p>
+
+<h3 align="left">2️⃣ Download the ZIP File</h3>
+<p align="left">
+  <a href="https://github.com/Metroynwjuice/Metro-V1/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
+  </a>
+</p>
+
+<h2 align="center">📋 Deployment Tutorial</h2>
+
+### YouTube Bot Hosting  
+<a href="https://youtu.be/HBUWUVVRzf4?si=4CvKunyL6Wm0Qwm1" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" />
+</a>
+
+---
+<h2 align="center">📋 Deployment websites</h2>
+
+### main site bot hosting
+<a href="https://bot-hosting.net/?aff=1297254811795722383" target="_blank">
+  <img src="https://img.shields.io/badge/Bot%20hosting-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Bot hosting" />
+</a>
+
+---
+
+### Deploy in Google Cloud  
+<a href="https://cloud.google.com/shell/?aff=1097457675723341836" target="_blank">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+</a>
+
 ---
 
 ### Deploy in Render  
