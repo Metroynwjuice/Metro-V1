@@ -1,61 +1,39 @@
-&lt;h1 align=&quot;center&quot;&gt;Metro-BUG-V1𝗕𝗢𝗧&lt;&gt;&lt;/h1&gt;
-&lt;p align=&quot;center&quot;&gt;
-&lt;img src=&quot;https://i.imgur.com/IMG-20250112-WA0034.jpeg&quot; height=&quot;300&quot; /&gt;
-&lt;/p&gt;
+*
+---
 
-&lt;p align=&quot;center&quot;&gt;
-METRO-V1 Multi Device is a automated whatsapp bot created by &lt;a href=&quot;https://github.com/metroynwjuice&quot; target=&quot;_blank&quot;&gt;METRO&lt;/a&gt; using &lt;a href=&quot;https://github.com/adiwajshing/Baileys&quot; target=&quot;_blank&quot;&gt;Baileys&lt;/a&gt; and &lt;a href=&quot;https://github.com/nodejs&quot; target=&quot;_blank&quot;&gt;Nodejs And cheems v8&lt;/a&gt;. Dont forget to give a star bro.
-&lt;/p&gt;
+### Deploy in Render  
+<a href="https://dashboard.render.com" target="_blank">
+  <img src="https://img.shields.io/badge/Render-maroon?style=for-the-badge&logo=render" alt="Render Hosting" />
+</a>
 
-&lt;p align=&quot;center&quot;&gt;
-&lt;a href=&quot;https://youtu.be/ygIOzvZS0z0?si=HBG2WzpWO-2cBBkJ&quot;&gt;&lt;img title=&quot;Size&quot; src=&quot;https://img.shields.io/badge/Tutorial-Video-green&quot;&gt;&lt;/a&gt;
-&lt;/p&gt;
+---
 
-------
+### Deploy in Codespaces  
+<a href="https://github.com/codespaces/new" target="_blank">
+  <img src="https://img.shields.io/badge/Codespaces-navy?style=for-the-badge&logo=visual-studio-code" alt="Deploy in Codespaces" />
+</a>
 
-# ```Bot Info```
-&lt;p align=&quot;center&quot;&gt;
-&lt;a href=&quot;https://github.com/metroynwjuice/followers&quot;&gt;&lt;img title=&quot;Followers&quot; src=&quot;https://img.shields.io/github/followers/metroynwjuice?color=red&amp;style=flat-square&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1/stargazers/&quot;&gt;&lt;img title=&quot;Stars&quot; src=&quot;https://img.shields.io/github/stars/Metroynwjuice/Metro-V1?color=blue&amp;style=flat-square&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1/network/members&quot;&gt;&lt;img title=&quot;Forks&quot; src=&quot;https://img.shields.io/github/forks/Metroynwjuice/Metro-V1?color=red&amp;style=flat-square&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1/watchers&quot;&gt;&lt;img title=&quot;Watching&quot; src=&quot;https://img.shields.io/github/watchers/Metroynwjuice/Metro-V1?label=Watchers&amp;color=blue&amp;style=flat-square&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1&quot;&gt;&lt;img title=&quot;Open Source&quot; src=&quot;https://img.shields.io/badge/Author-Metro%20Bot%20Inc.-blue?v=103&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1/&quot;&gt;&lt;img title=&quot;Size&quot; src=&quot;https://img.shields.io/github/repo-size/Metroynwjuic/Metro-V1?style=flat-square&amp;color=red&quot;&gt;&lt;/a&gt;
-&lt;a href=&quot;https://hits.seeyoufarm.com&quot;&gt;&lt;img src=&quot;https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMetroynwjuice%2FMetro-V1&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=probot.svg&amp;icon_color=%2300FF6D&amp;title=hits&amp;edge_flat=false&quot;/&gt;&lt;/a&gt;
-&lt;a href=&quot;https://github.com/Metroynwjuice/Metro-V1/graphs/commit-activity&quot;&gt;&lt;img height=&quot;20&quot; src=&quot;https://img.shields.io/badge/Maintained%3F-yes-green.svg&quot;&gt;&lt;/a&gt;&nbsp; 
-&lt;/p&gt;
-&lt;p align=&apos;center&apos;&gt;
-&nbsp;&nbsp;&nbsp; &lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;&lt;img src=&quot;https://profile-counter.glitch.me/{Metro-V1}/count.svg&quot; alt=&quot;metroynwjuice :: Visitor&apos;s Count&quot; /&gt;&lt;/p&gt;
+<h2 align="center">📲 Join the Community</h2>
 
--------
+<a href="https://whatsapp.com/channel/0029Vb2pSpF1SWsvHBmQox3b" target="_blank">
+  <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
+</a>
 
-## ```Connect With Me```
-&lt;p align=&quot;center&quot;&gt;
-&lt;a href=&quot;https://www.youtube.com/@ynw_juice&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=ff000000&amp;link=https://www.youtube.com/@ynw_juice&quot; /&gt;&lt;br&gt;
-&lt;a href=&quot;https://whatsapp.com/channel/0029Vb2pSpF1SWsvHBmQox3b&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q&quot; /&gt;&lt;br&gt;
-&lt;a href=&quot;https://t.me/patrontechhub&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&amp;logo=telegram&amp;logoColor=white&quot; /&gt;
-&lt;a href=&quot;https://whatsapp.com/channel/0029Vb2pSpF1SWsvHBmQox3b&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white&quot; /&gt;
-&lt;a href=&quot;https://www.instagram.com/@ynw_juice?igsh=MzNlNGNkZWQ4Mg==&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&quot; /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+</p>
 
+<h2 align="center">🎉 Thank You, My Supporters!</h2>
 
-## ```My Profile```
+<p align="center">
+  <a href="https://github.com/Metroynwjuice/Metro-V1/stargazers">
+    <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
+  </a>
+  <a href="https://github.com/Metroynwjuice/Metro-V1/network/members">
+    <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
+  </a>
+</p>
 
-- [`Whatsapp Channel`](https://wa.me/263776758808)
-- [`Support GC`](https://whatsapp.com/channel/0029Vb2pSpF1SWsvHBmQox3b)
-- [`Telegram Channel`](https://t.me/ynwjuicekai1)
-  
-  
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [Here](https://github.com/Metroynwjuice/Metro-V1/fork)
-- 
-## `Pair number For Session`
-[![PATRON-MD](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Itzpatron/Patron-Pairing-1)
-
-
-## ` BUILDPACKS`
-
-```
-bash heroku/
+<p align="center">
+  🌟 *Your support keeps us vibin'! Thank you for forking, starring, and sharing it with others Metro appreciate!* 🌟
+</p>
