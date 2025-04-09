@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/Screenshot_20231212-094757_WhatsApp.jpg" alt="Main Graphic" />
+  <img src="[https://files.catbox.moe/zgs9tt.jpg]" alt="Main Graphic" />
 </p>
 
 <p align="center">
